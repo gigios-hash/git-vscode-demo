@@ -4,5 +4,5 @@ function dobro(x:number){
 
 let str: string = "teste"
 
-
+let another_variable = 'isso'
 console.log(dobro(2))
